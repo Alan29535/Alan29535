@@ -1,4 +1,4 @@
-# Hi, I'm Alan 👋
+# Hi, I'm Alan 
 
 I am a PhD student in Electrical Engineering at Chulalongkorn University.
 
