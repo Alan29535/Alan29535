@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alan 👋
 
-<!--
-**Alan29535/Alan29535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student in Electrical Engineering at Chulalongkorn University.
 
-Here are some ideas to get you started:
+My research focuses on **image super-resolution and reconstruction**, 
+with particular interest in **MRI reconstruction**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about driving impactful research and building reliable vision systems that bridge theory and real-world applications, with growing interest in **uncertainty estimation and model reliability**.
+
+## 🔬 Research Interests
+- Image Super-Resolution
+- MRI / Medical Image Reconstruction
+- Uncertainty Quantification in Vision Models
+
+## 🛠 Tech Stack
+PyTorch · Medical Imaging
+
+## 🤝 Collaboration
+I welcome collaborations and enjoy working with researchers and engineers on challenging problems in computational imaging.
+
+## 📫 Contact
+📧 alanyjw9@gmail.com
