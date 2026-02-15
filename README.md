@@ -1,4 +1,4 @@
-# Hi, I'm Alan 
+# Hello, I am Alan. You can also call me Junwei. 
 
 I am a PhD student in Electrical Engineering at Chulalongkorn University.
 
